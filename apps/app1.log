@@ -1,0 +1,86 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Mar 13 10:57:30 2021] ***
+compiled with version: 9.3.0 on 13 March 2021 04:35:17
+os: Linux-5.4.0-66-generic #74-Ubuntu SMP Wed Jan 27 22:54:38 UTC 2021
+nodename: servicestest
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 6
+current working directory: /home/mj/emperor/apps
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/mj/emperor/apps//app1
+your processes number limit is 15397
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mj/emperor/apps/app1.sock fd 8
+uwsgi socket 1 inherited UNIX address /home/mj/emperor/apps/app1.socket fd 0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x55c3acc84a20
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 542528 bytes (529 KB) for 20 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55c3acc84a20 pid: 10588 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 10588)
+spawned uWSGI worker 1 (pid: 10591, cores: 20)
+announcing my loyalty to the Emperor...
+workers have been inactive for more than 10 seconds (1615633066-1615633055)
+Sat Mar 13 10:57:46 2021 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Mar 13 11:00:09 2021] ***
+compiled with version: 9.3.0 on 13 March 2021 04:35:17
+os: Linux-5.4.0-66-generic #74-Ubuntu SMP Wed Jan 27 22:54:38 UTC 2021
+nodename: servicestest
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 6
+current working directory: /home/mj/emperor/apps
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/mj/emperor/apps//app1
+your processes number limit is 15397
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mj/emperor/apps/app1.sock fd 8
+uwsgi socket 1 inherited UNIX address /home/mj/emperor/apps/app1.socket fd 0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.5 (default, Jan 27 2021, 15:41:15)  [GCC 9.3.0]
+Python main interpreter initialized at 0x55d27d901a20
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 542528 bytes (529 KB) for 20 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55d27d901a20 pid: 10703 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 10703)
+spawned uWSGI worker 1 (pid: 10706, cores: 20)
+announcing my loyalty to the Emperor...
+workers have been inactive for more than 10 seconds (1615633221-1615633210)
+Sat Mar 13 11:00:21 2021 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
