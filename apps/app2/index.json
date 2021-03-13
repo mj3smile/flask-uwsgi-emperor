@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c4501066854ca08df4f4a",
+    "index": 0,
+    "guid": "5030faa0-59b6-4369-8900-614d1afaa1ea",
+    "isActive": false,
+    "balance": "$3,772.35",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "name": "Tracie Wade",
+    "gender": "female",
+    "message": "Hi Benson Battle!"
+  }
+}

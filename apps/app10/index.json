@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c4524e04015052767ef3e",
+    "index": 0,
+    "guid": "d00bea65-fbb3-4efc-81bb-dc95c4c4a124",
+    "isActive": true,
+    "balance": "$2,699.51",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "name": "Vaughn Clark",
+    "gender": "male",
+    "message": "Hi Jenifer Fulton!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c450cfed13b7011ab0987",
+    "index": 0,
+    "guid": "b4884cf0-6207-4f18-b2cf-0928079653b7",
+    "isActive": false,
+    "balance": "$2,481.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "name": "Opal Mcmillan",
+    "gender": "female",
+    "message": "Hi Celia Grant!"
+  }
+}

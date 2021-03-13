@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c450449ae7599ff41a6d0",
+    "index": 0,
+    "guid": "ce773afb-58f5-40ad-84c8-9a6c54a9aec4",
+    "isActive": true,
+    "balance": "$3,999.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "name": "Sanders Short",
+    "gender": "male",
+    "message": "Hi Mayer Schwartz!"
+  }
+}

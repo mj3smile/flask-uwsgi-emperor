@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c451acacfc934a302b46f",
+    "index": 0,
+    "guid": "6d2976bc-10e7-4009-95c8-ac1529ceb0e9",
+    "isActive": false,
+    "balance": "$1,061.26",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "name": "Deirdre Gates",
+    "gender": "female",
+    "message": "Hi Susana Valencia!"
+  }
+}

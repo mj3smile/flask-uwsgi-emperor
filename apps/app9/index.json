@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c451e6443834f37b4aa10",
+    "index": 0,
+    "guid": "8e0c87bd-546c-43a2-9650-05eccb3c7300",
+    "isActive": false,
+    "balance": "$1,297.31",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "name": "Kim Leon",
+    "gender": "male",
+    "message": "Hi Cotton Tillman!"
+  }
+}

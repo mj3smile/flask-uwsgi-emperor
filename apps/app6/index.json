@@ -1,0 +1,15 @@
+{
+  "route": "/",
+  "data": {
+    "_id": "604c450f993684f13b519463",
+    "index": 0,
+    "guid": "6d852b17-a802-4d6a-a2cf-ae06b6291ed0",
+    "isActive": false,
+    "balance": "$1,979.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "name": "Kayla Harris",
+    "gender": "female",
+    "message": "Hi Nell Chandler!"
+  }
+}
