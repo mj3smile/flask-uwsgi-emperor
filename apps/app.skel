@@ -1,0 +1,11 @@
+[uwsgi]
+chdir = %d/%n
+socket = %d%n.sock
+protocol = http
+threads = 20
+master = true
+module = wsgi:app
+idle = 10
+die-on-idle = true
+req-logger = file:%d/%n.request.log
+logger = file:%d/%n.log
